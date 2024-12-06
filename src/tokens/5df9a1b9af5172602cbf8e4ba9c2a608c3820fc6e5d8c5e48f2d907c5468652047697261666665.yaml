@@ -1,0 +1,26 @@
+project: The Giraffe
+
+categories:
+  - Meme
+
+decimals: 0
+
+socialLinks:
+  website: https://x.com/ChipsCardano
+  discord: https://discord.com/invite/9QfUcsKum3
+
+verified: true 
+
+maxSupply: 1000000000
+
+treasury:
+  - stake1uxtyqt2qck9mcxek68vqmyyly95a9h7n7qk40gxezp3uxvs9cmtjr
+
+burn:
+  - addr1w8qmxkacjdffxah0l3qg8hq2pmvs58q8lcy42zy9kda2ylc6dy5r4
+
+
+
+
+  
+
