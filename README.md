@@ -1,14 +1,14 @@
-# 😽 Minswap tokens
+# 😽 Minswap Tokens
 
 ## Overview
 
-The merge of deprecated verified-tokens and market cap repositories, which contains a list of tokens, exposes APIs for transparent access to circulating supply and total supply.
+This repository is a merge of now deprecated verified-tokens and market-cap repositories, it contains a list of tokens and exposes APIs for transparent access to circulating supply and total supply.
 
-As of latest update, we consider `circulating = maxSupply - treasury - burn` and `total = maxSupply - burn` as standard formulas for calculating marketcap information.
+As of the latest update, we consider `circulating = maxSupply - treasury - burn` and `total = maxSupply - burn` as standard formulas for calculating marketcap information.
 
 In cases where `circulatingOnChain` is provided directly according to the asset's quantity on-chain or through external APIs, the `circulating` is the value of `circulatingOnChain`.
 
-For tokens providing with `treasuryOnChain`, `total = maxSupply - treasuryOnChain` and `circulating = maxSupply - treasuryOnChain` formulas will be applied.
+For tokens providing `treasuryOnChain`, `total = maxSupply - treasuryOnChain` and `circulating = maxSupply - treasuryOnChain` formulas will be applied.
 
 ## How to add my token
 
@@ -17,20 +17,24 @@ For tokens providing with `treasuryOnChain`, `total = maxSupply - treasuryOnChai
 As token verification prerequisites, ensure your token has:
 
 - A pool with at least **1000 ADA TVL**,
-- A post of your policy ID on Twitter or your policy ID displayed on your landing page,
+- A post of your policy ID on Twitter (can also be in bio) or your policy ID displayed on your website's landing page,
 - A logo added in the [Cardano Token Registry](https://github.com/cardano-foundation/cardano-token-registry) or CIP-68 metadata.
 
 For tokens to be verified:
 
 1. Create a transaction transfer **100 ADA** to Minswap wallet receiving token verification fee below. This fee appears as the cost for lifetime maintain this repository.
-2. Metadata includes: **the last 4 numbers of asset's policyId and asset's ticker** (for example, Verify 70c6 MIN).
+2. Transaction metadata includes: **the last 4 numbers of asset's policyId and asset's ticker** (for example, Verify 70c6 MIN).
 3. Attach the transaction hash to a comment in the yaml file pull request (instructions below).
+
+Why is there a one-time fee?
+The one time fee is collected for maintaining the token verification repository and plays a crucial role in ensuring the repository remains a trusted and reliable resource for verifying tokens.
+The fee also helps fund contributors, who carefully review and verify tokens, to ensure that only legitimate projects are verified, preventing scams and protecting users from malicious actors.
 
 Minswap wallet receiving token verification fee: `addr1q85g6fkwzr2cf984qdmntqthl3yxnw4pst4mpgeyygdlnehqlcgwvr6c9vmajz96vnmmset3earqt5wl0keg0kw60eysdgwnej`
 
-Any token that has been verified does **not** meet the requirements in the future would still be unverified.
+Any token that has been verified and does **not** meet the requirements in the future will be unverified.
 
-### Create pull request
+### Creating a pull request
 
 Create a pull request adding yaml file according to the following structure in the `src/tokens`:
 
@@ -83,8 +87,8 @@ circulatingOnChain:
 treasuryOnChain: addr...
 ```
 
-Alternatively, create an issue with above information and our team will update accordingly. However, please note that the pull request will be processed faster.
-Our team will verify and approve in first-in-first-out order.
+Alternatively, create an issue with above information and our team will update accordingly. However, please note that the pull requests will be processed much faster.
+Our team will verify and approve on first-in-first-out basis.
 
 ## Usage
 
