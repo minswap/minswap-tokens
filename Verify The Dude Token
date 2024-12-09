@@ -1,0 +1,33 @@
+# 1 token = 1 yaml file
+# filename/assetId: policyId + hex-coded token name
+
+project: DUDE
+# among DeFi, RealFi, GameFi, Meme, Bridge, Metaverse, Wallet, NFT, Oracle, AI, Launchpad, DAO, Stablecoin, Social, Media, Risk Ratings, Index Vaults, DePIN, Other
+categories:
+  - Meme
+
+decimals: 0
+# not required, among website, twitter, discord, telegram, coinMarketCap, coinGecko, only endpoints with SSL (HTTPs) are approved
+socialLinks:
+  website: https://x.com/adudeoncardano
+  discord: https://discord.com/invite/EWSnmwkKwK
+
+verified: true # default true, if a token violate verification policy then switch to false
+
+# the following fields are not required
+# for `big number`, it's a big number with no decimals. For example, if your token has a max supply of 50,000,000 tokens with 6 decimals, the value needs to be 50000000 × 10^6 = 50000000000000
+# for `URIs`, currently only URI which returns a big number (no decimals) are supported
+maxSupply: big number
+# or
+maxSupply: https://www.taptools.io/charts/token/f5808c2c990d86da54bfc97d89cee6efa20cd8461616359478d96b4c.4e2d3a2f5800c19f8aea6a99879523762100a05c57f01aad03669262f1d275b9
+
+treasury:
+  addr1q840k4srkwas4ws0zr0dnjpgnsyq42q42jwj8dlraewvthyvvdgm8vp9pw72vg7x7hqwf2t2h08l36enx5uljr5tc9ksq5yaqu
+
+burn:
+$snekburn
+
+circulatingOnChain:
+ https://www.taptools.io/charts/token/f5808c2c990d86da54bfc97d89cee6efa20cd8461616359478d96b4c.4e2d3a2f5800c19f8aea6a99879523762100a05c57f01aad03669262f1d275b9
+
+treasuryOnChain: addr1q840k4srkwas4ws0zr0dnjpgnsyq42q42jwj8dlraewvthyvvdgm8vp9pw72vg7x7hqwf2t2h08l36enx5uljr5tc9ksq5yaqu
