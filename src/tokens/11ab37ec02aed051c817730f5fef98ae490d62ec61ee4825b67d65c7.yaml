@@ -1,0 +1,36 @@
+project: Tuna
+
+categories:
+  - Meme
+
+decimals: 0
+
+socialLinks:
+  website: https://www.fatcutetuna.cat
+  discord: https://discord.gg/PwzFRms2Sg
+  twitter: https://twitter.com/FatCuteTuna
+
+maxSupply: 1000000000
+
+treasury:
+  - big number
+  - addr...
+  - stake...
+  - https://...
+  - assetId
+
+burn:
+  - big number
+  - addr...
+  - stake...
+  - https://...
+  - assetId
+
+circulatingOnChain:
+  - big number
+  - addr...
+  - stake...
+  - https://...
+  - assetId
+
+treasuryOnChain: addr...
