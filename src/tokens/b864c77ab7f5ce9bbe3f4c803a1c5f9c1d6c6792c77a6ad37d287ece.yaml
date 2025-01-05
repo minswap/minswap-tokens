@@ -1,0 +1,30 @@
+# 1 token = 1 yaml file
+# assetId: b864c77ab7f5ce9bbe3f4c803a1c5f9c1d6c6792c77a6ad37d287ece
+# file name: 0014df104d41524156454449
+project: MARAVEDI
+categories:
+  - DeFi
+  - DAO
+decimals: 3
+socialLinks:
+  twitter: https://x.com/maravedicoin
+verified: true
+maxSupply: 1.000.000.000
+treasury:
+  - number
+  - addr...
+  - stake...
+  - https://...
+  - assetId
+burn:
+  - number
+  - addr...
+  - stake...
+  - https://...
+  - assetId
+circulatingOnChain:
+  - number
+  - addr...
+  - stake...
+  - https://...
+  - assetId
