@@ -1,0 +1,52 @@
+# 1 token = 1 yaml file
+# assetId: policyId + hex-coded token name
+# file name: assetId of the token that want to be verified
+# all URL needs to be HTTPS
+
+project: Talos
+
+# among: DeFi, RealFi, GameFi, Meme, Bridge, Metaverse, Wallet, NFT, Oracle, AI, Launchpad, DAO, Stablecoin, Social, Media, Risk Ratings, Index Vaults, DePIN, Other
+categories:
+  - AI
+  - DAO
+  - Meme
+
+# needs to be the same as decimals in Cardano Token Registry or CIP-68
+decimals: 0
+
+# optional, among: website, twitter, discord, telegram, coinMarketCap, coinGecko
+socialLinks:
+  website: https://fluxpointstudios.com
+  discord: https://discord.gg/MfYUMnfrJM
+  X: https://x.com/TalosAgent
+
+
+verified: true # default true, if a token violate verification policy then switch to false
+
+# the following fields are not required
+# for `number`, it's token number with no decimals. For example, if your token has a max supply of 50,000,000 tokens with 6 decimals, the value needs to be 50000000 × 10^6 = 50000000000000
+# for URL, it must also return the token number without decimals
+maxSupply: 1000000000
+# or
+maxSupply: https://...
+
+treasury:
+  - 52139818
+  - addr1w9u9mw864yszpqk7374wtwtwludpa0rc9dmante78c7c9sqqdlyy9
+  - stake...
+  - https://...
+  - assetId
+
+burn:
+  - number
+  - addr...
+  - stake...
+  - https://...
+  - assetId
+
+circulatingOnChain:
+  - 1000000000
+  - addr...
+  - stake...
+  - https://...
+  - assetId
