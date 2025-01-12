@@ -1,0 +1,15 @@
+project: TomatoCoin - Cardano's Sauciest OG Memecoin 
+
+categories:
+  - Meme
+
+socialLinks:
+  website: https://tomatocoin.finance
+  twitter: https://twitter.com/tomatocoinmoon
+  telegram: https://t.me/tomatocoinofficial
+
+decimals: 0
+
+verified: true
+
+maxSupply: '57000000'
