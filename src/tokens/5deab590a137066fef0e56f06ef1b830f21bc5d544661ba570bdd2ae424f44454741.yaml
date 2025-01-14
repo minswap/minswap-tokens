@@ -1,0 +1,17 @@
+project: BODEGA
+
+categories:
+  - DeFi
+  - DAO
+  - Prediction Market
+
+decimals: 6
+
+socialLinks:
+  website: https://www.bodegacardano.org/
+  twitter: https://x.com/bodegacardano
+  discord: https://discord.gg/wUGqbzcw6J
+
+verified: true
+
+maxSupply: 25000000000000
