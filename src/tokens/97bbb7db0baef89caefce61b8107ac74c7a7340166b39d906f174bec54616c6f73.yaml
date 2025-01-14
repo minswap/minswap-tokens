@@ -1,0 +1,22 @@
+# tx: f33f6997e38a64f992e0caf5a74a7f45a14a635bba37f5e6687127c489e613be
+
+project: Talos
+
+categories:
+  - AI
+  - DAO
+  - Meme
+
+decimals: 0
+
+socialLinks:
+  website: https://fluxpointstudios.com
+  discord: https://discord.gg/MfYUMnfrJM
+  twitter: https://x.com/TalosAgent
+
+verified: true 
+
+maxSupply: 1000000000
+
+treasury:
+  - addr1w9u9mw864yszpqk7374wtwtwludpa0rc9dmante78c7c9sqqdlyy9
