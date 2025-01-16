@@ -3,7 +3,6 @@ project: BODEGA
 categories:
   - DeFi
   - DAO
-  - Prediction Market
 
 decimals: 6
 
