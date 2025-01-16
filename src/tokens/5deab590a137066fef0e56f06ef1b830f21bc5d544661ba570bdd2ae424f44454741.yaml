@@ -1,0 +1,19 @@
+project: BODEGA
+
+categories:
+  - DeFi
+  - DAO
+
+decimals: 6
+
+socialLinks:
+  website: https://www.bodegacardano.org/
+  twitter: https://x.com/bodegacardano
+  discord: https://discord.gg/wUGqbzcw6J
+
+verified: true
+
+maxSupply: 25000000000000
+
+treasury:
+  - stake17xghrrwpkjn2k2p25c904xqcm93e6d9v2nchkmdkr4vjkxgtkjmx3
