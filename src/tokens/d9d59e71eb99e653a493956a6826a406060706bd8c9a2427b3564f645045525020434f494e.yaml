@@ -1,0 +1,20 @@
+project: PERP COIN
+
+categories:
+  - Meme
+
+decimals: 0
+
+socialLinks:
+  twitter: https://x.com/perpsonx
+
+verified: true 
+
+maxSupply: 1000000000
+
+treasury:
+  - addr1qy6ezgvq84kucnzc70v3wq2p8ynutgkcempgusvuq5a7nd9mg9snrgmcszu444pgx5pzv3lteu3n8y7s4tez84m69mqs4mqkwm
+  - addr1q8w33jnvx6pyqaz3agvetl20uvrql79muvh3zj9pyufrdssvfqfe7jzst8f5fa5nyq9xkeeq42ljvps3daq5qrs28k0s5u5an4
+
+burn:
+  - addr1w8qmxkacjdffxah0l3qg8hq2pmvs58q8lcy42zy9kda2ylc6dy5r4
