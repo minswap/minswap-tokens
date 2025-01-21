@@ -1,0 +1,17 @@
+# tx: 51f0c5454eb4a443d6ee3a02eb1274163d1b87d6d96edc52a2f186c3181c6856
+
+project: Quacku
+
+categories:
+  - Meme
+
+decimals: 0
+
+socialLinks:
+  website: https://quacku.io/
+  twitter: https://x.com/QuackuIO
+  telegram: https://t.me/QUACKU_Chat
+
+verified: true 
+
+maxSupply: 1000000000
