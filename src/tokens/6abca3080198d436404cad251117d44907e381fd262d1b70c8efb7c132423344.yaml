@@ -1,10 +1,16 @@
 project: 2B3D
+
 categories:
   - Gaming
+
 decimals: 8
+
 socialLinks:
   website: https://2b3d.com
+
 verified: true
+
 maxSupply: 99500000000000000
+
 treasury:
   - 43780000000000000
