@@ -1,0 +1,22 @@
+# tx: 590b826ef48eb20b5bb1fc17e823e930c460c7b5f0b81f7ec32727f200ac08bd
+project: Meme Miners
+
+categories:
+  - Meme
+  - DePIN
+
+decimals: 0
+
+socialLinks:
+  twitter: https://x.com/MemeMiners
+  website: https://mememiners.io/
+
+verified: true 
+
+maxSupply: 1000000000
+
+treasury:
+  - addr1qx309r4grzdhdsxvhtz5z7qet3ufknyg8a3wryjxff9lrz7fnqdtklktt2nlrz4e9ppfqpqspufu0mlpk6dypual855q0ylpfn
+
+burn:
+  - addr1w8qmxkacjdffxah0l3qg8hq2pmvs58q8lcy42zy9kda2ylc6dy5r4
