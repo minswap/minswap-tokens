@@ -1,0 +1,12 @@
+project: USDA
+
+categories:
+  - Stable
+
+socialLinks:
+  website: https://www.anzens.com
+  twitter: https://x.com/anzensofficial
+
+decimals: 6
+
+verified: true
