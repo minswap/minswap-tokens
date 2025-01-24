@@ -1,0 +1,29 @@
+# tx: b58ed2f15465aee0d6c79ad885f5db0f6a194aba2b5c83520244c8ec8070f92a
+project: RealBTCano
+
+categories:
+  - DeFi
+  - Meme
+  - NFT
+  - AI
+
+decimals: 0
+
+socialLinks:
+  twitter: https://x.com/RealBTCano
+
+verified: true
+
+maxSupply: 45021000000
+
+treasury:
+  - 45021000000 # total supply
+  - addr1qy20shnprgj3prg2v8fq5hmnq2r4s9d0zudx68846gafqxsjtp26a8vhac62xddlef9xgel3vwzqq2p203qavuae22sqcm8pk7
+  - stake1uyf9s4dwnkt7ud9rxklu5jnyvlck8pqq9q48cswkwwu49gqquw4qr
+  - f31b2142b9c7fe2198e271ff6303c319fc39099c9f2ed8902c12216b425443414E4F
+
+circulatingOnChain:
+  - 45021000000 
+  - addr1qy20shnprgj3prg2v8fq5hmnq2r4s9d0zudx68846gafqxsjtp26a8vhac62xddlef9xgel3vwzqq2p203qavuae22sqcm8pk7
+  - stake1uyf9s4dwnkt7ud9rxklu5jnyvlck8pqq9q48cswkwwu49gqquw4qr
+  - f31b2142b9c7fe2198e271ff6303c319fc39099c9f2ed8902c12216b425443414E4F
