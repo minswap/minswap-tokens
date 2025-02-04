@@ -8,11 +8,11 @@ decimals: 0
 
 socialLinks:
   twitter: https://x.com/SmolCatCoin
-  Website: https://www.smolcatcoin.com/
+  website: https://www.smolcatcoin.com/
   discord: https://discord.com/invite/w8WcDaYfgF
-  Telegram: https://t.me/+XVKeNyHOJBYyYzIx
+  telegram: https://t.me/+XVKeNyHOJBYyYzIx
 
-verified: false 
+verified: true 
 
 maxSupply: 1000000000
 
