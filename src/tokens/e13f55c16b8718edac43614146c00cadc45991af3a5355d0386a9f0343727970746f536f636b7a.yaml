@@ -1,21 +1,15 @@
-# 1 token = 1 yaml file
-# assetId: policyId + hex-coded token name
-# file name: assetId of the token that want to be verified
-# all URL needs to be HTTPS
-
+# tx: 710fc79466ce5b6b81fb4160a808da0a99b94e153bf207b6291be6c989c606ea
 project: CryptoSockz
 
-# among: DeFi, RealFi, GameFi, Meme, Bridge, Metaverse, Wallet, NFT, Oracle, AI, Launchpad, DAO, Stablecoin, Social, Media, Risk Ratings, Index Vaults, DePIN, Other
 categories:
-    - RWA
+  - Other
 
-# needs to be the same as decimals in Cardano Token Registry or CIP-68
 decimals: 0
 
 # optional, among: website, twitter, discord, telegram, coinMarketCap, coinGecko
 socialLinks:
-    website: https://linktr.ee/cryptosockz
-    discord: https://discord.gg/sockz
-    twitter: https://x.com/cardanosockz
+  website: https://linktr.ee/cryptosockz
+  discord: https://discord.gg/sockz
+  twitter: https://x.com/cardanosockz
 
-verified: true # default true, if a token violate verification policy then switch to false
+verified: true
