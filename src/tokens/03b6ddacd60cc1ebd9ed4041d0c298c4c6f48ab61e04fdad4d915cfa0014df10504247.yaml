@@ -1,0 +1,16 @@
+project: PBG Token
+
+categories:
+  - RealFi
+
+socialLinks:
+  twitter: https://x.com/PBGToken
+  website: https://www.pbg.io/
+  discord: https://discord.com/invite/gpwCJmYCBN
+
+verified: true
+
+decimals: 6
+
+circulatingOnChain:
+  - 03b6ddacd60cc1ebd9ed4041d0c298c4c6f48ab61e04fdad4d915cfa0014df10504247
