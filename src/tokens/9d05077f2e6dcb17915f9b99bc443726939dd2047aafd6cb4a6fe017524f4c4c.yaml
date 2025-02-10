@@ -1,0 +1,27 @@
+project: Farmroll
+
+
+categories:
+  - AI
+  - Launchpad
+  - Social
+
+# needs to be the same as decimals in Cardano Token Registry or CIP-68
+decimals: 6
+
+# optional, among: website, twitter, discord, telegram, coinMarketCap, coinGecko
+socialLinks:
+  website: https://farmroll.io/
+  discord: https://discord.gg/bwBRqs5ypP
+  twitter: https://x.com/farmroll_io
+
+verified: true # default true, if a token violate verification policy then switch to false
+
+# the following fields are not required
+# for `number`, it's token number with no decimals. For example, if your token has a max supply of 50,000,000 tokens with 6 decimals, the value needs to be 50000000 × 10^6 = 50000000000000
+# for URL, it must also return the token number without decimals
+maxSupply: 1000000000000000
+
+
+burn:
+  - addr1qyqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqzj2c79gy9l76sdg0xwhd7r0c0kna0tycz4y5s6mlenh8pq6a0h00
