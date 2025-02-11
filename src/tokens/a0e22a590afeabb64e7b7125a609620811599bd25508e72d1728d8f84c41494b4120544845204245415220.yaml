@@ -1,0 +1,16 @@
+project: LAIKA THE BEAR
+categories:
+  - Meme  
+  - DAO
+  - Media
+  - Social
+  - NFT
+decimals: 0
+socialLinks:
+  website: https://www.laikathebear.com
+  twitter: https://x.com/LaikaTheBear
+  discord: https://discord.gg/F6qYS6zsT8
+verified: true
+maxSupply: 699750000
+burn:
+  - addr1w8qmxkacjdffxah0l3qg8hq2pmvs58q8lcy42zy9kda2ylc6dy5r4
