@@ -1,0 +1,22 @@
+project: Foreon Network
+
+categories:
+  - DeFi
+  - Prediction Markets
+
+decimals: 6
+
+socialLinks:
+  website: https://foreon.network/
+  X: https://x.com/foreonnetwork
+  discord: https://discord.gg/zwPfBRGDEu
+  telegram: https://t.me/foreonnetwork
+
+verified: true
+
+maxSupply: 10000000
+
+treasury:
+  - addr1q9kvfpu0sl57vv2dm5jjeyu60zp45td77362jx7ah56dptxczex7e9h9kkhr3vqlnxka2ppfcwqf3gxqyz6ytsuq2vtsky24qp
+  - addr1qyhw2ytfxslkk30dzjyuyga3xcpc3hkskeunxsqd2smn98daqwnujgy78da9ywr5z6qy25g0hsv6v6lprlfp4e0tt2psqpfc5e
+  - addr1q95kk7ygkf8zx7xsc2j7ld957ngm8tk78gs0jtv2jgnnskw28m3hgc9wcf5mzcw2krgj479r87swxhq4vsns8mphgy5smn9uq0
