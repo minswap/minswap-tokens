@@ -1,14 +1,15 @@
+# tx: 20d2b94df0bae292a740b8605ee0c3d6b2a2c0e9a75c46d460ba9413711afdf3
 project: Foreon Network
 
 categories:
   - DeFi
-  - Prediction Markets
+  - Other
 
 decimals: 6
 
 socialLinks:
   website: https://foreon.network/
-  X: https://x.com/foreonnetwork
+  twitter: https://x.com/foreonnetwork
   discord: https://discord.gg/zwPfBRGDEu
   telegram: https://t.me/foreonnetwork
 
