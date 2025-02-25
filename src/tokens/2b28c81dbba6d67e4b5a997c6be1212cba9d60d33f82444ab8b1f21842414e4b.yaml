@@ -1,13 +1,14 @@
-project: BankerCoin
+project: Bank
 
 categories:
   - DeFi
+  - DAO
   - Other
 
 socialLinks:
-  website: https://bankercoinada.com
-  twitter: https://twitter.com/BankercoinAda
-  discord: https://discord.gg/bankercoin
+  website: https://bankerlabs.co
+  twitter: https://x.com/BankerLabs
+  discord: https://discord.gg/bankerlabs
 
 verified: true
 
@@ -17,7 +18,8 @@ decimals: 0
 
 treasury:
   - addr1qx2ay3syek8nyfgvxjtmh226ksmqs889plskjgp8wj8vpltvsfw366ru85uwlyrs7nxk9cjyl3ds5g8fjyn78h4ckqfqu3542u
+  - addr1zy24mtr7v4ff2ke95tt0v3j26geky9edh7tsyxd6nnlt6gzent4ccunhhfkguzp2hsrj3xnw99edk2cckf37g3dr22qsdw3t25
 
 burn:
-  - addr1q8lfmg4v0nk9v6en5s4fv5pgvd3zhd8xd7lsfe8gtgew3kyzcqxx64ppncsvwzemnwwn5wysaqjp5623ljrzrxlsfwnq50ay0s
+  - addr1wytr5vtxfz50musf5w2gn8ulhw7z8ez26rpk226vfsqz7uqxe200v
 
