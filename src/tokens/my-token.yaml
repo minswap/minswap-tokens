@@ -1,0 +1,22 @@
+# tx: f81a030fffbb74c647306876320351f21a3841151b0b8d9cc745204705a3546b
+
+project: Profila
+
+categories:
+- Media
+- Advertising
+
+decimals: 6 
+
+socialLinks:
+  website: https://https://www.profila.com
+  discord: https://discord.gg/urUWvDENTe
+  twitter: https://x.com/ProfilaPrivacy
+
+verified: true
+
+maxSupply: 500000000 x 10^6
+
+treasury:
+  -addr1q9vd0sen4nj3a8ynhjrnuft9esmssauw42uavsqr23z92uc8lw9rjfuc627mu7ys7y70fkj8hzz43l0jasn3kv382s7scgeykt
+
