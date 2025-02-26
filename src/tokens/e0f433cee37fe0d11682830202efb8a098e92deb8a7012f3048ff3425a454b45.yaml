@@ -3,8 +3,8 @@
 project: Profila
 
 categories:
-- Media
-- Advertising
+  - Media
+  - Other
 
 decimals: 6 
 
@@ -15,7 +15,7 @@ socialLinks:
 
 verified: true
 
-maxSupply: 500000000 x 10^6
+maxSupply: 500000000000000
 
 treasury:
   -addr1q9vd0sen4nj3a8ynhjrnuft9esmssauw42uavsqr23z92uc8lw9rjfuc627mu7ys7y70fkj8hzz43l0jasn3kv382s7scgeykt
