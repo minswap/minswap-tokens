@@ -1,0 +1,20 @@
+project: SafetyMoon [STM]
+
+categories:
+  - DeFi
+  - Meme
+
+decimals: 4
+
+socialLinks:
+  twitter: https://x.com/safetymoontoken
+  website: https://www.safetymoon.org
+  discord: https://discord.gg/H6as4tZg
+
+verified: true
+
+maxSupply: 350000000000
+
+treasury:
+  - addr1qx53v5thteutsxv72wqqynpmc36uvem538ydfmpuhjaxxuck7crr080jc3ytzvvu9kfsnqndntkz3lx98gnt5hhz4emsvlkf8j
+  - stake1u9f9v0z5zzlldgx58n8tklphu8mf7h4jvp2j2gddluemnssjfnkzz
