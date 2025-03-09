@@ -1,0 +1,23 @@
+project: Necro League
+
+categories:
+  - DeFi
+  - GameFi
+  - NFT
+  - Other
+
+socialLinks:
+  twitter: https://x.com/necroleague
+  discord: https://discord.gg/eztM6r9MXZ
+
+verified: true
+
+maxSupply: '1000000000'
+
+decimals: 0
+
+treasury:
+  - addr1q99lzufqk92grt9xl6dtu2r580m83qjgu2hhxggckvuv59c5mqktlsqx4pnuvwvrsedmlfrv7846ecktcgvu9s028tkq9rcnej
+  - addr1qxrjz75syt59z9a4d3ucl7anumhq8tugfcah4fp6r8cymfwee68ptrnhwsejy27u54juq6ypradv0tg3x5n08m4ggm8qjsjanl
+  - addr1zyupekdkyr8f6lrnm4zulcs8juwv080hjfgsqvgkp98kkdkrxp0e2m4utglc7hmzkuta3e2td72cdjq9m9xlfn6rz8vq86l65l
+  - addr1q8hxygq7a0dv8hxegjnqvs8gcf8vm29l2jfydst8j8h567wx8l2gnjy6uuqvwtg8fazzzyl0nr4zllajaxs32wpy39lq7uamea
