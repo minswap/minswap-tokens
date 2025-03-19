@@ -22,7 +22,7 @@ async function validateTokenFiles() {
       if (!fileName.match(ASSET_ID_REGEX)) {
         throw new Error(`Invalid filename: ${fileName}`);
       }
-      const filePath = path.join(TOKEN_DIR, `${file}`);
+      const filePath = path.join(TOKEN_DIR, file);
       const tokenFileData = fs.readFileSync(filePath, "utf-8");
       const tokenData: TokenMetadata = {
         tokenId: file.split(".")[0],
