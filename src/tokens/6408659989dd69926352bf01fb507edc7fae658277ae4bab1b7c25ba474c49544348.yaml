@@ -4,7 +4,7 @@ project: GLITCH
 
 categories:
   - AI
-  
+
 decimals: 0
 
 socialLinks:
@@ -13,7 +13,7 @@ socialLinks:
   telegram: https://t.me/aidacardano
   twitter: https://x.com/aidacardano
 
-verified: true
+verified: false
 
 maxSupply: 1_000_000_000
 

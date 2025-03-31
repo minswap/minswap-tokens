@@ -2,11 +2,16 @@
 # assetId: b864c77ab7f5ce9bbe3f4c803a1c5f9c1d6c6792c77a6ad37d287ece0014df104d41524156454449
 # file name: b864c77ab7f5ce9bbe3f4c803a1c5f9c1d6c6792c77a6ad37d287ece0014df104d41524156454449.ymal
 project: MARAVEDI
+
 categories:
   - DeFi
   - DAO
+
 decimals: 3
+
 socialLinks:
   twitter: https://x.com/maravedicoin
-verified: true
+
+verified: false
+
 maxSupply: 1000000000
