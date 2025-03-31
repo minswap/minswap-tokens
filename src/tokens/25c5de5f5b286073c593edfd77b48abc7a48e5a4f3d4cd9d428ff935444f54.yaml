@@ -1,3 +1,4 @@
+# DOT
 project: WAN Bridge
 
 categories:
@@ -12,5 +13,5 @@ socialLinks:
 
 decimals: 10
 
-verified: false
+verified: true
 

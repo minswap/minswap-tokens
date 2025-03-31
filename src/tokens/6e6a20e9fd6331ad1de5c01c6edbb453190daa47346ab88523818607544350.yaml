@@ -7,14 +7,14 @@ project: Terrible Cake Party
 categories:
   - GameFi
   - Meme
-  
+
 socialLinks:
   website: https://terriblecakeparty.com
   twitter: https://twitter.com/terriblecake
   discord: https://bit.ly/terriblecakediscord
   telegram: https://t.me/+toLNNG7lwr5hOTYx
 
-verified: true
+verified: false
 
 maxSupply: 10000000000
 

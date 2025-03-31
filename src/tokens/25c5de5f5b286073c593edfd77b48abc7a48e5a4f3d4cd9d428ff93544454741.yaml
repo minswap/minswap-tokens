@@ -1,3 +1,4 @@
+# DEGA
 project: WAN Bridge
 
 categories:
@@ -12,5 +13,5 @@ socialLinks:
 
 decimals: 8
 
-verified: false
+verified: true
 

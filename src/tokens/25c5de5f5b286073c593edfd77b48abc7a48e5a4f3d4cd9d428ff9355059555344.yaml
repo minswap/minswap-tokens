@@ -1,3 +1,4 @@
+# PYUSD
 project: WAN Bridge
 
 categories:
@@ -12,5 +13,5 @@ socialLinks:
 
 decimals: 6
 
-verified: false
+verified: true
 
