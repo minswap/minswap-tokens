@@ -1,4 +1,4 @@
-project: BananaClipGame
+project: MNKY - BananaClipGame
 
 categories:
   - GameFi
@@ -6,8 +6,9 @@ categories:
 decimals: 6
 
 socialLinks:
-  website: https://www.bananaclip.io/
-  discord: https://discord.com/invite/SDmxWeuyvq
-  twitter: https://x.com/BananaClipGame
+  website: https://bananaclip.io/
+  twitter: https://twitter.com/BananaClipGames
+  discord: https://discord.gg/y85Vd9cpuh
+  telegram: https://t.me/bananaclipstudios
 
 verified: true
