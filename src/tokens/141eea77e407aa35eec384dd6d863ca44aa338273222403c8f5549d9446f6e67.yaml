@@ -1,0 +1,22 @@
+project: Dong
+
+categories:
+  - Meme
+
+decimals: 0
+
+socialLinks:
+  website: https://dongcoinada.com
+  discord: https://discord.gg/rzb2RP6jCK
+  twitter: https://x.com/DongCoinADA
+  telegram: https://t.me/+MsJ4uBBbyes3Mjgx
+
+verified: true
+
+maxSupply: 1000000000
+
+treasury:
+  - addr1q9ee969sprwm8rxa6xz78jsl6w2d3c0eclf49xy26wdypnqmg0u7wqdjj7cva2pj370lzlr5ta5h4scahghzcw7wt0sss6xuqx
+
+burn:
+  - addr1w8qmxkacjdffxah0l3qg8hq2pmvs58q8lcy42zy9kda2ylc6dy5r4
