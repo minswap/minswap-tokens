@@ -2,11 +2,17 @@ project: bWare Token
 
 categories:
   - Other
-
-socialLinks:
-  twitter: https://x.com/bWareArt
+  - Bridge
 
 decimals: 1
 
-verified: false
+socialLinks:
+  website: https://www.bwaregroup.xyz
+  twitter: https://x.com/bWareGroup
+  telegram: https://t.me/bWareToken
 
+verified: true
+
+maxSupply: 369369369
+
+circulatingOnChain: 369369369
