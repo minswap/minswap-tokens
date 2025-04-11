@@ -1,0 +1,19 @@
+project: CSWAP
+
+categories:
+  - DeFi
+
+socialLinks:
+  website: https://cswap.fi
+  twitter: https://twitter.com/CswapDEX
+  discord: https://discord.gg/JNFDH8ENd5
+  telegram: https://t.me/cswapdex
+
+verified: true
+
+maxSupply: "2500000000000000"
+
+decimals: 6
+
+circulatingOnChain:
+  - https://api.cswap.trade/cswap/token/circulating
