@@ -1,3 +1,4 @@
+# tx: d84d4e1e7ca84a51af34bde6be74b8ff9b18d06b27a479d8756781466a000082
 project: bWare Token
 
 categories:
@@ -15,4 +16,5 @@ verified: true
 
 maxSupply: 369369369
 
-circulatingOnChain: 369369369
+circulatingOnChain: 
+  - 369369369
