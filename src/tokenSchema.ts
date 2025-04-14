@@ -31,6 +31,7 @@ export const tokenSchema: JSONSchemaType<TokenMetadata> = {
           "Risk Ratings",
           "Index Vaults",
           "DePIN",
+          "RWA",
           "Other",
         ],
       },

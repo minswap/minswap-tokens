@@ -24,6 +24,7 @@ export type Category =
   | "Risk Ratings"
   | "Index Vaults"
   | "DePIN"
+  | "RWA"
   | "Other";
 
 export type TokenMetadata = {
