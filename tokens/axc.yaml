@@ -1,0 +1,16 @@
+- policyId: "90b43f663f18ab184209e9235365c282dd18a74aceacc59fcf9e2a0e"
+  assetName: "AXC"
+  description: "AxellaCoin (AXC) powers decentralized clinical research, enabling transparent and equity-backed funding for early-stage biotech innovation and compassionate use trials."
+  name: "AxellaCoin"
+  ticker: "AXC"
+  url: "https://axellacoin.carrd.co"
+  decimals: 6
+  logo: "ipfs://bafybeihl2zc2jq3wjd2lfiirttg7jh635xphulptngc2mkhzagg5j4e6iu"
+  tags:
+    - Utility
+    - Research
+    - Healthcare
+  socials:
+    twitter: "https://twitter.com/axellaresearch"
+    website: "https://axellacoin.carrd.co"
+    whitepaper: "https://axellacoin.carrd.co/whitepaper"
