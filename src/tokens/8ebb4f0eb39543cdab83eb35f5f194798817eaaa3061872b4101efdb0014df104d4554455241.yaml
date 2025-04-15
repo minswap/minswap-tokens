@@ -1,0 +1,25 @@
+project: Metera
+
+categories:
+    - DeFi
+
+socialLinks:
+    website: https://www.meteraprotocol.io
+    twitter: https://x.com/meteraprotocol
+    discord: https://discord.com/invite/Ws5Z5ZACme
+
+verified: true
+
+maxSupply: '1000000000000000'
+
+decimals: 6
+
+treasury:
+    - addr1xygxa6pes59vj2uw36zz28zmcjn3vk3ptvwdq3904hqg6jy4m25mx4h4dtltkwphjx3a0wvn8p305865g75cp2z6wfxq20q2jm
+    - addr1x9g6syemm35gknfxnhr5aeu96hnttwdkrgnc6kh4v42arm69rhkgysqm5ehmg845g66yl9a7v790w00a6ayp48tudlkqds0cuu
+    - addr1xy7p5upmq06gtnu5v42ak8pmd9k376phuxpmvtfvdglkywgnmclxy0afqlgrnyrkh5z9ktkasfkvh9lyz9ty9nk854zqpqk8w8
+    - addr1x9tzena423n5nfdpsgxdwte5k2hjw33r0mmvlay7wurdlyx6jcqe6233rxnve6fu3kvzl909fcq6s4ty6d969j69ytashdk6tw
+    - addr1xywlcdpdqqeqjr4ypuza5n0ru68ppr7p0qs54qcgncrmvxxsvfpshc6nmmt75g6rwnkajw4ujen7tvq0vgvf9ggrjrhqjrnkf8
+
+burn:
+    - addr1w8qmxkacjdffxah0l3qg8hq2pmvs58q8lcy42zy9kda2ylc6dy5r4
