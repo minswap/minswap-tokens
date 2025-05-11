@@ -17,4 +17,4 @@ verified: true
 maxSupply: 369369369
 
 circulatingOnChain: 
-  - 369369369
+  - https://www.bwaregroup.xyz/api/BwareBalance/circulating-supply
