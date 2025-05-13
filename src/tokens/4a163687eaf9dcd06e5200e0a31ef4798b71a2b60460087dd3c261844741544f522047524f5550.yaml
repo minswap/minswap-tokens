@@ -1,0 +1,22 @@
+project: GATOR GROUP
+
+categories:
+  - Meme
+
+decimals: 0
+
+socialLinks:
+  website: https://g8r.fun
+  discord: https://discord.gg/X8jv3Ym8Y5
+  twitter: https://x.com/adag8r
+  telegram: https://t.me/adaG8R 
+
+verified: true 
+
+maxSupply: 1000000000
+
+treasury:
+  - addr1xx5gpsjq09vf7e0djwws09s3w2nfl58c6s473qrgu533zm9gsrpyq72cnaj7myuaq7tpzu4xnlg034ptazqx3efrz9kqkj8tce
+
+burn:
+  - addr1w8qmxkacjdffxah0l3qg8hq2pmvs58q8lcy42zy9kda2ylc6dy5r4
