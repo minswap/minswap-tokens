@@ -1,0 +1,25 @@
+project: Derp Birds DERP
+
+categories:
+  - NFT
+
+socialLinks:
+  website: https://derpbirds.io
+  twitter: https://twitter.com/TheDerpBirds
+  discord: https://discord.com/invite/7jA2uXhJZK
+
+verified: true
+
+maxSupply: 100000000
+
+decimals: 6
+
+treasury:
+  - stake1uxfr2wta3gfmyx4l65ln9txecwwxdndfe0v8zwpyqamvauc4uwxmj
+  - stake1uxn545hrmea2rwrzz2muuy52wsy9v0qxucja5xn39z7kdxcu4mlfr
+  - stake1uy8ekvvu4lpm3fwx74keahfw5snnelduqe8murwp0as9k2srghase
+  - stake1ux0r2nvv7g5azw6xgxrx7xfq6dec2f2958n36c09sn93vdc4ljsxp
+  - stake1u9grfzm4qrwunvjrasegnz7d2gvg8zcdyjy58ar9ktjy0xqxx3cja
+
+circulatingOnChain:
+  - 1127d22df8f6896c5d226fca9a6e898c73c1d88200268f1f4ae5810844455250
