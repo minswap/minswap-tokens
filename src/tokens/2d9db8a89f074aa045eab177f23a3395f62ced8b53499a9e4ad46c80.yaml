@@ -1,0 +1,17 @@
+project: FLOW
+
+categories:
+  - DeFi
+  - DAO
+  - Lending And Borrowing
+
+decimals: 6
+
+socialLinks:
+  website: https://flowcardano.org/
+  twitter: https://x.com/flowdefi
+  discord: https://discord.gg/DrJW7D4z
+
+verified: true
+
+maxSupply: 25000000000000
