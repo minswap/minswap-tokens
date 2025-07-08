@@ -1,0 +1,15 @@
+project: Skyline Bridge
+
+categories:
+  - DeFi
+  - Bridge
+
+decimals: 6
+
+socialLinks:
+  website: https://skylinebridge.tech
+  twitter: https://x.com/skyline_bridge
+
+verified: true
+
+maxSupply: 3000000000000000
