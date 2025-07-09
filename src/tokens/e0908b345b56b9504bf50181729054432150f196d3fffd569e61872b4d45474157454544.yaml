@@ -1,0 +1,27 @@
+project: MEGAWEED
+
+categories:
+  - Meme
+  - GameFi
+  - NFT
+
+decimals: 0
+
+socialLinks:
+  website: https://megaweed.co
+  twitter: https://megaweed.co/x
+  discord: https://megaweed.co/discord
+  telegram: https://megaweed.co/telegram
+
+verified: true
+
+maxSupply: 1000000000
+
+treasury:
+  - 480000000
+  - addr1qx59hcz6nfnv8j5jpzsfzwg89267kw4jh9236quzddyqdl2gy6deeykpj6t6nwgv65smdpasszy4fxlzdv4qac7nlpus88zjfl
+  - 420000000
+  - addr1qyhpp5zrnl5vdlq46cwqlwn2kqfa789f8m9xmu8u9z8z8yhs5lyqa32m7ya450nld74ggdc7cwvz240vtr9xlztdz85qqufhre
+
+burn:
+  - 69420
