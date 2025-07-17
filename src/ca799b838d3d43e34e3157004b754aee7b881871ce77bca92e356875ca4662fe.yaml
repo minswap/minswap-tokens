@@ -1,0 +1,17 @@
+project: SUPERIOR
+
+categories:
+  - Meme
+
+socialLinks:
+  website: https://adasuperior.com/
+  twitter: https://x.com/SuperiorCardano
+
+verified: true
+
+maxSupply: '10000000000'
+
+decimals: 8
+
+treasury:
+  - addr1qyg5908g3pcnlqkf4rpwzy0cucz7ulanhguhuuz0aq6jdv4tqxrgus8u7hcdeddulwy8979kp296qum2ahu7nx2c43lq73kl3d
