@@ -1,0 +1,35 @@
+# 1 token = 1 yaml file
+# assetId: policyId + hex-coded token name
+# file name: assetId of the token that want to be verified
+# all URL needs to be HTTPS
+
+project: BOO
+
+# among: DeFi, RealFi, GameFi, Meme, Bridge, Metaverse, Wallet, NFT, Oracle, AI, Launchpad, DAO, Stablecoin, Social, Media, Risk Ratings, Index Vaults, DePIN, Other
+categories:
+  - Meme
+  - GameFi
+  - NFT
+  - Other
+
+# needs to be the same as decimals in Cardano Token Registry or CIP-68
+decimals: 0
+
+# optional, among: website, twitter, discord, telegram, coinMarketCap, coinGecko
+socialLinks:
+  website: https://boo.ghostchainlabs.io/
+  twitter: https://twitter.com/BoocoinIO
+  discord: https://discord.gg/uBDyczswdm
+
+verified: true # default true, if a token violate verification policy then switch to false
+
+# the following fields are not required
+# for `number`, it's token number with no decimals. For example, if your token has a max supply of 50,000,000 tokens with 6 decimals, the value needs to be 50000000 × 10^6 = 50000000000000
+# for URL, it must also return the token number without decimals
+maxSupply: 1000000000
+
+treasury:
+  - addr1xyq20a3z0ef3xpps0r4tny54v0z03e5lgwaezqgx6gfqamt3phpm0dmrcz4he7fuglvhdx4nhnks22u42arkugw2svnq0ywtnv
+
+burn:
+  - addr1w8qmxkacjdffxah0l3qg8hq2pmvs58q8lcy42zy9kda2ylc6dy5r4
