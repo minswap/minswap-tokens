@@ -38,7 +38,6 @@ export type TokenMetadata = {
     telegram?: string;
     coinMarketCap?: string;
     coinGecko?: string;
-    medium?: string;
   };
   verified: boolean;
   decimals: number;
