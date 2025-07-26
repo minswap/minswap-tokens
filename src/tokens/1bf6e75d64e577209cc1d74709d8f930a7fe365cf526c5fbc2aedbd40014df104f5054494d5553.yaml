@@ -1,0 +1,15 @@
+project: Optimus
+
+categories:
+  - Meme
+
+socialLinks:
+  website: https://optimuscoin.xyz
+  twitter: https://x.com/OptimusCardano
+  telegram: https://t.me/OptimusCardano
+
+decimals: 8
+
+maxSupply: "8000000000000000000"
+
+verified: true
