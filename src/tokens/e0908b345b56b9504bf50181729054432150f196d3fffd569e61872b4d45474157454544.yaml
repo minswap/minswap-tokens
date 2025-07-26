@@ -13,7 +13,7 @@ socialLinks:
   discord: https://megaweed.co/discord
   telegram: https://megaweed.co/telegram
 
-verified: true
+verified: false
 
 maxSupply: 1000000000
 
@@ -25,3 +25,4 @@ treasury:
 
 burn:
   - 69420
+

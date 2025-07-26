@@ -8,9 +8,9 @@ socialLinks:
   twitter: https://twitter.com/snukcoinada
   discord: https://discord.gg/pSEPHZrA4k
 
-verified: true
+verified: false
 
-maxSupply: "100000000000"
+maxSupply: '100000000000'
 
 decimals: 0
 
@@ -20,3 +20,4 @@ treasury:
 
 burn:
   - addr1w8qmxkacjdffxah0l3qg8hq2pmvs58q8lcy42zy9kda2ylc6dy5r4
+

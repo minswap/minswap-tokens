@@ -1,4 +1,3 @@
-# tx: d84d4e1e7ca84a51af34bde6be74b8ff9b18d06b27a479d8756781466a000082
 project: bWare Token
 
 categories:
@@ -12,9 +11,10 @@ socialLinks:
   twitter: https://x.com/bWareGroup
   telegram: https://t.me/bWareToken
 
-verified: true
+verified: false
 
 maxSupply: 369369369
 
-circulatingOnChain: 
+circulatingOnChain:
   - https://www.bwaregroup.xyz/api/BwareBalance/circulating-supply
+
