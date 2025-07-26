@@ -1,0 +1,16 @@
+project: PP
+
+categories:
+  - DeFi
+  - NFT
+  - Meme
+
+socialLinks:
+  website: https://cardanocity.io
+  twitter: https://x.com/CardanoCity
+
+verified: true
+
+maxSupply: 10000000000
+
+decimals: 0
