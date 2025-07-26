@@ -6,10 +6,11 @@ categories:
 
 decimals: 8
 
-maxSupply: "42006900000000000"
+maxSupply: '42006900000000000'
 
 socialLinks:
   website: https://poopee.art
   twitter: https://x.com/TropicalFattys
 
-verified: true
+verified: false
+

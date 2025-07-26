@@ -6,12 +6,12 @@ categories:
 socialLinks:
   twitter: https://twitter.com/hazryder
 
-verified: true
+verified: false
 
 maxSupply: 420000000069
 
 decimals: 0
 
 treasury:
-  - stake1uxhrhn6n0kszpkrvcn32hrqqx3jmna9n37w9n335u3x54sc5ats0c # SNEPE treasury
+  - stake1uxhrhn6n0kszpkrvcn32hrqqx3jmna9n37w9n335u3x54sc5ats0c
 
