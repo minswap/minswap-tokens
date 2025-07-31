@@ -1,0 +1,15 @@
+project: WORT
+
+categories:
+  - Meme
+
+socialLinks:
+  website: https://worthub.xyz
+  twitter: https://x.com/worthub
+  discord: https://discord.gg/ugxHWa2HC2
+
+verified: true
+
+maxSupply: 1000000000
+
+decimals: 0
