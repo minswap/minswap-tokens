@@ -2,7 +2,7 @@ project: PALM Economy
 
 categories:
   - RWA
-  
+
 decimals: 6
 
 socialLinks:
@@ -10,13 +10,13 @@ socialLinks:
   discord: 'https://discord.com/invite/FQRA8wqRWa'
   twitter: 'https://x.com/palmeconomy'
   telegram: 'https://t.me/+2AMmwrrD821hYzEx'
-  
+
 verified: true
 
 maxSupply: 50000000000000000
 
 treasury:
   - 2000000000000000 #50 billion PALM, with 6 decimals
-  
+
 circulatingOnChain:
-  - 4500000000 # this is what is circulating
+  - 4500000000000000 # this is what is circulating
