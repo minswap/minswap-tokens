@@ -19,4 +19,4 @@ treasury:
   - 2000000000000000 #50 billion PALM, with 6 decimals
 
 circulatingOnChain:
-  - 4500000000000000 # this is what is circulating
+  - https://analytics.palmyra.app/analytics/circulating?decimals=false&format=text
