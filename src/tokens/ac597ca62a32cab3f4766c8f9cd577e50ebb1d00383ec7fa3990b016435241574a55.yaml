@@ -1,0 +1,15 @@
+project: CRAWJU
+
+categories:
+  - Meme
+
+socialLinks:
+  website: https://crawju.com
+  twitter: https://x.com/crawju
+  discord: https://discord.com/invite/crawju
+  
+verified: true
+
+maxSupply: 1000000000
+
+decimals: 0
