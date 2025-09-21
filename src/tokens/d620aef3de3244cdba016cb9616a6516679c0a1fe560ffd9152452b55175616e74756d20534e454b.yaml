@@ -1,0 +1,21 @@
+project: Quantum SNEK
+
+categories:
+  - Meme
+
+socialLinks:
+  website: https://qsnek.iagon.net
+  twitter: https://x.com/quantumsnek
+  discord: https://discord.gg/Jbq2JTeMrK
+
+verified: true
+
+maxSupply: 1000000000
+
+decimals: 0
+
+treasury:
+  - addr1qxttsv0yaz2lhgfy9gqk8qerp0wqk344gea0ea6qt2fzeuxav48j76vy82rd9cqn2myf9hrvpmj7y6jlq5usts4heefqg66t82
+
+burn:
+  - addr1w8qmxkacjdffxah0l3qg8hq2pmvs58q8lcy42zy9kda2ylc6dy5r4
