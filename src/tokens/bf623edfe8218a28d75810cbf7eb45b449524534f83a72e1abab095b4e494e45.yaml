@@ -10,6 +10,6 @@ socialLinks:
 
 verified: true
 
-maxSupply: 1000000000
+maxSupply: '1000000000'
 
 decimals: 0
