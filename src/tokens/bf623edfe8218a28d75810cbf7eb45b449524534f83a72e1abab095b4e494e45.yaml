@@ -1,0 +1,15 @@
+project: IX
+
+categories:
+  - Launchpad
+
+socialLinks:
+  website: https://www.ix-cardano.com
+  twitter: https://x.com/ixcardano
+  discord: https://discord.gg/84sm4wrR8c
+
+verified: true
+
+maxSupply: '1000000000'
+
+decimals: 0
