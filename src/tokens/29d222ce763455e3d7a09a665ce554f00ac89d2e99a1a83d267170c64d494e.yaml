@@ -17,6 +17,7 @@ maxSupply: 5_000_000_000_000000
 
 burn:
   - 2_000_000_000_000000
+  - addr1wyqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqql9r5vw
 
 decimals: 6
 
