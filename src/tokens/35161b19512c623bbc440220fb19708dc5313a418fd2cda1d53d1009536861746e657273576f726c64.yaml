@@ -1,0 +1,16 @@
+project: Stuff.io
+
+categories:
+  - Utility
+  - Media
+
+decimals: 0
+
+socialLinks:
+  website: https://stuff.io/
+  discord: https://discord.gg/mHyCBvjz
+  twitter: https://x.com/stuff_io
+
+verified: true
+
+maxSupply: 1000000000
