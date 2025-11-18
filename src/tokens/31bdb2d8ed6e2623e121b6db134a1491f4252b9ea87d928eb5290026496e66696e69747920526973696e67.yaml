@@ -1,0 +1,20 @@
+project: Infinity Rising
+
+categories:
+  - GameFi
+  - DePIN
+
+decimals: 6
+
+socialLinks:
+  website: https://infinityrising.com
+  twitter: https://x.com/infinityrisingx
+  discord: https://discord.gg/infinityrising
+  youtube: https://www.youtube.com/@InfinityRisingGame
+
+verified: true
+
+maxSupply: 3000000000000000
+
+circulatingOnChain:
+  - https://raw.githubusercontent.com/Cornucopias/circulating-supply/refs/heads/main/RISE_CS_Minswap
