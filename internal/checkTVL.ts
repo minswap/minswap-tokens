@@ -24,6 +24,7 @@ const WHITELIST_POLICIES = new Set([
   "ececc92aeaaac1f5b665f567b01baec8bc2771804b4c21716a87a4e3", // Splash
   "f6099832f9563e4cf59602b3351c3c5a8a7dda2d44575ef69b82cf8d", // OADA
   "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935", // WanChain
+  "0691b2fecca1ac4f53cb6dfb00b7013e561d1f34403b957cbb5af1fa", // Midnight
 ]);
 
 const blockfrostAPI = new BlockFrostAPI({
