@@ -1,0 +1,15 @@
+project: ASCEND
+
+categories:
+  - DeFi
+
+decimals: 6
+
+socialLinks:
+  website: https://www.ascend.market/
+  twitter: https://x.com/AscendPerps
+  discord: https://discord.gg/D4QgRFY96P
+  
+verified: true 
+
+maxSupply: 22000000000000
