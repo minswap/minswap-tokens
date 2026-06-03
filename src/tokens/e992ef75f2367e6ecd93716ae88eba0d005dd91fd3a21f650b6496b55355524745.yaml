@@ -1,0 +1,15 @@
+project: SURGE
+
+categories:
+  - DeFi
+
+decimals: 6
+
+socialLinks:
+  website: https://surgecardano.com
+  twitter: https://x.com/SurgeCardano
+  discord: https://discord.gg/ZpF4qbYS2v
+  
+verified: true 
+
+maxSupply:  25000000000000

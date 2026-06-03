@@ -1,0 +1,19 @@
+project: KNIGHT
+
+categories:
+  - Meme
+  - Launchpad
+
+decimals: 0
+
+socialLinks:
+  website: https://knightonnight.com/
+  twitter: https://x.com/KnightOnnNight
+  discord: https://discord.gg/vudEjh62fh
+
+verified: true
+
+maxSupply: 1000000000
+
+treasury:
+  - addr1qxjm794jsle2u5su9gll0q42kaf9tjcnlut3m50yy4zcp8cd9l99p0tnukemrdh5rm0r8slxlafnnq7zg7cyyhfnt8zsnxapj9

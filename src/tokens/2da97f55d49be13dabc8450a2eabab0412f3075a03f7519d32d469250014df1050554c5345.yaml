@@ -1,0 +1,16 @@
+project: PULSE
+
+categories:
+  - DeFi
+  - DAO
+
+decimals: 6
+
+socialLinks:
+  website: https://pulsecardano.org/
+  twitter: https://x.com/pulsecardano
+  discord: https://discord.gg/HF9EryZW
+
+verified: true
+
+maxSupply: 20000000000000
