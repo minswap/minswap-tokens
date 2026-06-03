@@ -71,6 +71,8 @@ verified: true # default true, if a token violate verification policy then switc
 maxSupply: number
 # or
 maxSupply: https://...
+# or
+maxSupply: assetName
 
 treasury:
   - number

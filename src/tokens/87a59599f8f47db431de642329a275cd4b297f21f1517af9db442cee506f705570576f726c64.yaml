@@ -1,15 +1,14 @@
-project: PopUpWorld
+project: PopUpWorld (PUW)
 
 categories:
   - Launchpad
-  - NFT
-
-socialLinks:
-  website: https://www.popupworld.co.uk/popupworldtoken
-  twitter: https://twitter.com/popupworldtoken
-  discord: https://discord.com/invite/dYVRaMaJxt
 
 decimals: 0
 
-verified: false
+socialLinks:
+  website: https://www.popupworld.co.uk/popupworldtoken
+  twitter: https://x.com/popupworldtoken
+  telegram: https://t.me/popupworld
+  discord: https://discord.gg/dYVRaMaJxt
 
+verified: true
