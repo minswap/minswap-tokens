@@ -1,0 +1,25 @@
+# 1 token = 1 yaml file
+# assetId (file name) = policyId + hex asset name
+#   policyId   = 73797786382c0832b5787a5b306f5308488f14571b7061f79396ad2c
+#   assetName  = 4c756d70  ("Lump")
+
+project: Agent Lump
+
+# among: DeFi, RealFi, GameFi, Meme, Bridge, Metaverse, Wallet, NFT, Oracle,
+#        AI, Launchpad, DAO, Stablecoin, Social, Media, Risk Ratings,
+#        Index Vaults, DePIN, Other
+categories:
+  - AI
+  - Meme
+
+# must match the Cardano Token Registry decimals (0)
+decimals: 0
+
+socialLinks:
+  website: https://lumptools.xyz
+  twitter: https://x.com/AgentLumpAI
+
+verified: true
+
+# 1,000,000,000 LUMP, 0 decimals (single Plutus mint, fully circulating)
+maxSupply: 1000000000
