@@ -1,0 +1,18 @@
+project: GalaxySwap
+
+categories:
+  - DeFi
+
+decimals: 6
+
+socialLinks:
+  website: https://galaxyswap.io
+  twitter: https://x.com/GalaxySwapLabs
+
+verified: true
+
+# 40,000,000 GALAXY × 10^6 decimals
+maxSupply: 40_000_000_000000
+
+treasury:
+  - addr1q9g02wq8rs426kzj5wtdxjjlvue8k50k8jrj4yh6l2xlwyf2l0jdq2a423lzf67ygslfmx9gl3rgl9x347hwkh9qlcgsyetynp
