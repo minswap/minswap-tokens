@@ -8,9 +8,9 @@ socialLinks:
 
 verified: true
 
-maxSupply: https://tokensupply.singularitynet.io/tokensupply?tokensymbol=rjv&q=totalsupply
+maxSupply: 1000000000000000
 
 decimals: 6
 
 circulatingOnChain:
-  - https://tokensupply.singularitynet.io/tokensupply?tokensymbol=rjv&q=circulatingsupply
+  - 8cfd6893f5f6c1cc954cec1a0a1460841b74da6e7803820dde62bb78524a56
