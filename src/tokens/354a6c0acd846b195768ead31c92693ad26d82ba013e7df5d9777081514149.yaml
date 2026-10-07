@@ -4,13 +4,24 @@ categories:
   - AI
   - Other
 
+# Must match decimals in the Cardano Token Registry / CIP-68 metadata
+decimals: 0
+
 socialLinks:
   website: https://quantumai.computer
   twitter: https://twitter.com/quantum_ai_
   discord: https://discord.com/invite/SyqKCdEsBb
   telegram: https://t.me/Quantum_AI
 
-decimals: 0
+verified: true
 
-verified: false
+# Total Supply: 1,000,000,000 QAI, 0 decimals -> raw value is the same number
+maxSupply: 1000000000
 
+# TODO: add treasury address(es)/stake key(s) if any tokens are held in treasury
+# treasury:
+#   - addr...
+
+# TODO: add burn address(es) if any tokens have been burned
+# burn:
+#   - addr...
