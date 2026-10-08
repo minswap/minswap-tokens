@@ -1,0 +1,16 @@
+project: L4VA
+categories:
+  - DeFi
+  - AI
+  - Launchpad
+  - Index Vaults
+decimals: 6
+socialLinks:
+  website: https://l4va.com
+  twitter: https://x.com/L4VAprotocol
+  discord: https://discord.com/invite/mBbTUfAzuS
+verified: true
+maxSupply: 100000000
+treasury:
+  - addr1qxljvpw93m2c46v495sq0h66pkr59hla0nkzsvwjp3vqn0l4639vxn0ynscuqtprqjqusmhq4ck07q0jwhjc35mz9vhqqt4qnu
+  - addr1q9xxh4khznpx8gvmymg7a8ug4lu3zmmzdqpmgdspap9ylu07v56723zjrl7d463fpaunk6vfckhhnahmtzy0xucqz2ssn8ltn5
