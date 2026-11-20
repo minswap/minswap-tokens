@@ -1,0 +1,18 @@
+project: Diamond Hooves
+
+categories:
+  - GameFi
+  - NFT
+
+socialLinks:
+  website: https://diamondhooves.io
+  twitter: https://x.com/Diamondhoovesio
+
+verified: true
+
+maxSupply: 135000000000000000
+
+decimals: 8
+
+treasury:
+  - addr1qyp2jrxtyhu5r60sqmh0lhc42ca56njkdk0xt5xgg847tmdpy85apnyntrfdumcnf66htlju77k9rcfrj5m22tge2hnqwl6l6l
